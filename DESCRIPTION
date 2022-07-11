@@ -3,7 +3,7 @@ Version: 0.1-8
 Date: 2022-7-09
 Title: Significant Zero Crossings
 Authors@R: person("Derek", "Sonderegger", email="derek.sonderegger@gmail.com", role=c('aut','cre')) 
-Depends: R (>= 2.4.0)
+Depends: R (>= 4.1.0)
 Imports: stats, graphics, splines, boot, ggplot2, dplyr, tidyr
 Suggests: 
 Description: Calculates and plots the SiZer map for scatterplot data.  A 
